@@ -15,6 +15,6 @@ Jonathan.
 
 <a href="buymeacoffee.com/jonathanfallis">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb28xMTJ5aHV5NTlpcjdnbGo5bWtseGZtaGRtenpnOGI3eWZnZTh2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/513lZvPf6khjIQFibF/giphy.gif">
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jonathanfallis" data-color="#5F7FFF" data-emoji="☕" data-font="Arial" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 </a>
