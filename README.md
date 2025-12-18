@@ -11,7 +11,7 @@ Outside of tech, I am a father, motorcyclist, petrol head and a big football & m
 
 Jonathan.
 
-![jonniehacks stats](https://github-readme-stats.vercel.app/api?username=jonniehack&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
+![jonniehacks stats](https://github-readme-stats.vercel.app/api?username=jonniehack&theme=github_dark&show_icons=true&hide_border=true&count_private=true&custom_title="Jonathan")
 
 ## Support
 
